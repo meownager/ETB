@@ -1,2 +1,0 @@
-# ETB
-Emerging Tech & Business
